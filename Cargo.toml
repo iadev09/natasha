@@ -1,0 +1,10 @@
+[package]
+name = "natasha"
+version = "0.1.2"
+edition = "2024"
+authors = ["iadev09"]
+description = "natasha project in development."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/iadev09/natasha"
+
+[dependencies]
